@@ -8,6 +8,6 @@ module.exports.run = async (bot, message, args) => {
 }
 
 module.exports.help = {
-    name: "leaveserver",
+    name: "xcwcqscazccxcc",
     desc: "Leaves the server.",
 }
