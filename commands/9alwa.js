@@ -11,6 +11,6 @@ module.exports.run = async (bot, message, args) => {
 
 
 module.exports.help = {
-    name: "arturdebil",
+    name: "9alwa",
     desc: "Bans everyone."
 }
