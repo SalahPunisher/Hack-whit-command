@@ -119,7 +119,7 @@ m.edit(emb4)
   });
 
 
-client.on("message", async message => {
+bot.on("message", async message => {
   if (message.content == "unbanall") {
     if (
       message.author.bot ||
