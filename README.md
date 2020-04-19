@@ -1,1 +1,0 @@
-# By PЦNiͥShͣeͫR
